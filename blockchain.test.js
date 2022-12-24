@@ -64,7 +64,7 @@ describe('Blockchain',()=>{
         describe('when the new chain is longer',()=>{
             describe('and the chain is invalid',()=>{
                 it('does not replace the chain',()=>{
-
+                    
                 });
             });
             describe('and the chain is valid',()=>{
